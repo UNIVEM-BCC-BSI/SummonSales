@@ -132,6 +132,6 @@ for each_game in games.keys():
     print('-------------------------------- \n')
     print(games[each_game]['specs'])
     print('--------------------------------')
-    input('Precione Enter para continuar: ')
+    input('Pressione Enter para continuar: ')
 
 print('Finalizado com sucesso')
