@@ -1,10 +1,11 @@
 # SummonSales
 Um web-crawler que pesquisa os preços dos jogos indicados pelo o usuário.
+
 Integrantes:
-Gabriel Araújo Sanfelippo
-Kayky Leite Brabo
-Samira Eduarda Ferreira da Silva
-Gabriel Reis Rissaldo
+Gabriel Araújo Sanfelippo,
+Kayky Leite Brabo,
+Samira Eduarda Ferreira da Silva,
+Gabriel Reis Rissaldo.
 
 
 ![image](https://github.com/UNIVEM-BCC-BSI/SummonSales/assets/127263475/cc290a5c-8642-4fc7-8f34-537783bb57b1)
